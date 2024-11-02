@@ -1,28 +1,33 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Autism Detection: A Data-Driven Solution
+Autism Spectrum Disorder (ASD)
+Need for Objective Screening: Machine learning can help create more consistent and objective early screening tools for Autism Spectrum Disorder (ASD).
+
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Autism Spectrum Disorder (ASD)
+ASD is a neurodevelopmental disorder characterized by difficulties in social interaction, communication, and repetitive behaviors. 
+Early diagnosis is critical for better outcomes. 
+Why Autism Prediction?
+The purpose of the Autism Prediction Using Machine Learning project is to leverage machine learning techniques to develop an automated system that can accurately predict Autism Spectrum Disorder (ASD) in its early stages based on behavioral and developmental data. 
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+The project aims to achieve the following objectives
+-Improve diagnostic accuracy
+-Enhance efficiency and speed
+-Enable early intervention
+-Provide an accessible tool that can assist healthcare professionals in early diagnosis.
+
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+Operating System: 64-bit Windows 10, macOS, or Ubuntu.
+Python Version: Python 3.8 or later.
+Frameworks: TensorFlow (2.5+), PyTorch for deep learning; scikit-learn for traditional ML.
+Data Libraries: Pandas, NumPy for data handling; Matplotlib, Seaborn for visualization.
+IDE: VSCode or Jupyter Notebook.
+Version Control: Git for collaborative work.
+Optional Deployment Tools: Flask/Django for web deployment, Docker for containerization.
+Hardware: NVIDIA GPU (CUDA-enabled), 8GB+ RAM (16GB recommended).
+Additional Libraries: OpenCV for image handling, SHAP/LIME for model explainability, joblib for model saving.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
