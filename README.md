@@ -1,4 +1,4 @@
-## Autism Detection: A Data-Driven Solution
+![WhatsApp Image 2024-12-15 at 11 46 52_eb76e2a8](https://github.com/user-attachments/assets/9776ab19-16c8-496c-be65-ecd0680f2512)## Autism Detection: A Data-Driven Solution
 Autism Spectrum Disorder (ASD)
 Need for Objective Screening: Machine learning can help create more consistent and objective early screening tools for Autism Spectrum Disorder (ASD).
 
@@ -32,7 +32,8 @@ Additional Libraries: OpenCV for image handling, SHAP/LIME for model explainabil
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
+![ArchitectureDiagramFInal](https://github.com/user-attachments/assets/5017ea23-d500-48ea-8c8b-1edbbcc992ea)
 
 
 ## Output
@@ -40,10 +41,14 @@ Additional Libraries: OpenCV for image handling, SHAP/LIME for model explainabil
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+
+![image](https://github.com/user-attachments/assets/af2052a3-31cb-46e4-83a3-85ef7f76b206)
+
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+![image](https://github.com/user-attachments/assets/f78876e8-00f2-49af-81b9-774f35381120)
+
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
@@ -51,13 +56,15 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+In conclusion, our developed Autism Detection System based on advanced machine learning and neuroimaging techniques marks a significant step forward in early autism spectrum disorder (ASD) diagnosis. By leveraging state-of-the-art technologies such as EEG analysis, fMRI imaging, and deep learning algorithms, the system demonstrates the capability to accurately predict ASD with high sensitivity and specificity.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. J. Park, K. Lee, and H. Choi, “Predicting Autism Spectrum Disorder
+from Behavioral Assessments using Deep Neural Networks,” Computers
+in Biology and Medicine, vol. 136, pp. 104752, 2022.
+2. Z. Wang, Y. Zhang, and L. Xu, “Machine Learning Models for Autism
+Diagnosis: A Comparative Study,” Artificial Intelligence in Medicine,
+vol. 119, pp. 102127, 2022
 
 
 
